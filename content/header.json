@@ -15,7 +15,12 @@
   },
   "categories_list": {
     "featured": [
-      "/brinquedos?Brinquedos"
+      "/brinquedos?Brinquedos",
+      "/casa-e-decoracao?Casa e Decoração",
+      "/organizacao?Organização",
+      "/informatica?Informática",
+      "/diversos?Diversos",
+      "/marca?Marca"
     ],
     "random": 6,
     "full_width": false
