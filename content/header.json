@@ -14,7 +14,9 @@
     "socials": true
   },
   "categories_list": {
-    "featured": [],
+    "featured": [
+      "/brinquedos?Brinquedos"
+    ],
     "random": 6,
     "full_width": false
   },
