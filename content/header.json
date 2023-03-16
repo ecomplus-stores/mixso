@@ -1,7 +1,8 @@
 {
   "marketing_stripe": {
     "text": "Bem-vindo a Mixso",
-    "link": ""
+    "link": "",
+    "color": "#7b2bcc"
   },
   "contacts_stripe": {
     "pages": [
