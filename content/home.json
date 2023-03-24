@@ -29,10 +29,6 @@
       ]
     },
     {
-      "type": "info-bar",
-      "enabled": true
-    },
-    {
       "type": "collection-shelf",
       "shuffle": true,
       "collection_id": "6413263c4bd2e929c1a00ad4:categories:Lego:/lego",
@@ -43,9 +39,11 @@
       "page": 1
     },
     {
-      "type": "page-title",
-      "title": "",
-      "description": ""
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "640731634bd2e929c18eddc1:categories:Casa e Decoração:/casa-e-decoracao"
     }
   ]
 }
