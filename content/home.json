@@ -44,6 +44,13 @@
       "limit": 12,
       "page": 1,
       "collection_id": "640731634bd2e929c18eddc1:categories:Casa e Decoração:/casa-e-decoracao"
+    },
+    {
+      "type": "brands-carousel",
+      "limit": 10,
+      "offset": 0,
+      "sort": "name",
+      "autoplay": 1000
     }
   ]
 }
